@@ -25,3 +25,4 @@ nbrpoject/private/
 build/
 build.xml
 *.bhar
+/dist/
