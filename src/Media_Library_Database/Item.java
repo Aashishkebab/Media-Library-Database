@@ -1,4 +1,4 @@
-package project2_bharadwaj;
+package Media_Library_Database;
 
 import static java.lang.Integer.parseInt;
 import java.util.Calendar;
@@ -7,12 +7,12 @@ import java.util.Scanner;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
 import java.awt.Toolkit;
-import static project2_bharadwaj.Project2_Bharadwaj.truncate;
-import static project2_bharadwaj.Project2_Bharadwaj.verifyInt;
-import static project2_bharadwaj.Project2_Bharadwaj.showAlert;
-import static project2_bharadwaj.Project2_Bharadwaj.status;
-import static project2_bharadwaj.Project2_Bharadwaj.titleLabel;
-import static project2_bharadwaj.Project2_Bharadwaj.toast;
+import static Media_Library_Database.MediaLibraryDatabase.truncate;
+import static Media_Library_Database.MediaLibraryDatabase.verifyInt;
+import static Media_Library_Database.MediaLibraryDatabase.showAlert;
+import static Media_Library_Database.MediaLibraryDatabase.status;
+import static Media_Library_Database.MediaLibraryDatabase.titleLabel;
+import static Media_Library_Database.MediaLibraryDatabase.toast;
 
 /**
  *

@@ -2,7 +2,7 @@
 //Dr. Cheatham
 //CS1181
 //Project 2
-package project2_bharadwaj;
+package Media_Library_Database;
 
 import java.awt.Toolkit;
 import java.io.File;
@@ -42,7 +42,7 @@ import javafx.stage.Stage;
  *
  * @author aashi
  */
-public class Project2_Bharadwaj extends Application{
+public class MediaLibraryDatabase extends Application{
     
     static Alert wait = new Alert(AlertType.INFORMATION);
     static ButtonType doneWaiting = new ButtonType("Useless button");
